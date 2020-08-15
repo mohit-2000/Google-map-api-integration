@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <!--By using Api of google we are using this script-->
+      <script src="http://maps.google.com/maps/api/js?key=XXXXXXXXXXXXXXXXXXXXX" type="text/javascript"></script>
+      <!--<script src="http://maps.google.com/maps/api/js?key="XXXXXXXXXXXXXXXXX" sensor=false" type="text/javascript"></script>-->
+</head>
+<body>
+<!--This form takes the json data (containing all the region names and region id) and make a dropdown list  -->
+
+% if id == 'x':
+    <form "method="post" action="/index/getdata">
+        <label>Choose a RegionID : </label>
+
+            <select name="regionid">
+                <option value="0">All Regions</option>
+                % for i in range(0,len(eval(queenslanddata))):
+                    % val = (eval(queenslanddata))[i]["RegionID"]
+                    % data = eval(queenslanddata)[i]["Region Name"]
+                    <option value="{{ val }}">{{ data }}</option>
+                % end
+            </select><input type="submit"  value="Display Stations">
+    </form>
+% end
+
+<!--This if block run if user selected any Region Name from dropdown list except "All Regions" from home page. Here
+id will Hold the if of that Region Name selected by user. this id is returned from th getstations method of python file -->
+% if id != '0' and name1!='nothing':
+    <!--This is the heading of the Page-->
+    <h1>The Fire Station details in a particular selected Region</h1>
+    <!-- For tabular representation of data table tag is used -->
+    <table>
+    <!--This is table row tag and it display the particular row. all the data of a row must be in this tag-->
+    <tr>
+    <!--These are heading of the table and these must be in a static row -->
+    <th>Station Number</th>
+    <th>Station Name</th>
+    <th>Street Address</th>
+    <th>State</th>
+    <th>Postcode</th>
+    <th>Phone Number</th>
+    <th>Email</th>
+    <th>Latitude</th>
+    <th>Longitude</th>
+    </tr>
+    <!--"% " is used to write a piece of python code of 1 line in html file. And eval function takes json variable as an argument
+     and converts it into list of dictionaries and store it in name2 variable-->
+    % name2 = eval(name1)
+    <!-- This loop iterate in a list and for each i, it holds a dictionary-->
+    % for i in name2:
+        <tr>
+        <!--Now innner loop is taken in a table row tag because all the data of a particular i must be in a row-->
+        % for (k,v) in i.items():
+            <!--td is table data tag it is used to display the data on table. and  value_variable_name  is used to show the python dictionary data-->
+            <td>{{ v }}</td>
+        % end
+        </tr>
+    % end
+    </table>
+    <!--syntax for using multiple lines python code in html is <% multiple_line_code %>  -->
+    <!--Now we store all Station Name, Latitude, Longitude of "name2" in a new python list "alist" -->
+    <div id="map" style="height: 600px; width: 1280px;"></div>
+    <p id="demo"></p>
+
+    <!--This script used to display the locations on google maps with the help of longitude and latiude of the data-->
+    <script type="text/javascript">
+        var array = [];
+        var array1=[];
+        var xmlhttp;
+        var xmlhttp1;
+        
+        var infowindow = new google.maps.InfoWindow();
+        var marker, i;
+        var j=0;
+        if (window.XMLHttpRequest) { // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();
+        } 
+        else { // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4) {
+                var text = xmlhttp.responseText;
+                // Now convert it into array using regex
+                array = (text.split("\n"));
+            }
+            var st=[],ad=[],no=[],em=[];
+            for(i=0;i<array.length-1;i=i+6){
+                if (i>0){
+                    array1[i/3]=parseFloat(array[i])
+                    array1[(i/3)+1]=parseFloat(array[i+1])
+                }
+                else{
+                    array1[i]=parseFloat(array[i])
+                    array1[i+1]=parseFloat(array[i+1])
+                }
+            }
+            console.log(array1)
+            var w1;
+            for(k=0;k<array1.length/2;k++){
+                w1=(k*6)+2
+                st[k]=array[w1]
+                ad[k]=array[w1+1]
+                no[k]=array[w1+2]
+                em[k]=array[w1+3]
+            }
+            var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 10,
+            center: new google.maps.LatLng(array1[0], array1[1]),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+            });
+            console.log(st)
+            var cnt=[]
+            for (j = 0; j < array1.length; j=j+2) { 
+                console.log(array1.length)
+                marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(array1[j],array1[j+1]),
+                    map: map
+
+            });
+            var contentString = '<p>' + st[j/2] + '</p>' +'<p>' + ad[j/2] + '</p>'+'<p>' + no[j/2] + '</p>'+'<p>' + em[j/2] + '</p>';
+                cnt[0]=st[j/2]
+                cnt[1]=ad[j/2]
+                cnt[2]=no[j/2]
+                cnt[3]=em[j/2]
+                console.log(cnt)
+                google.maps.event.addListener(marker, 'click', (function(marker, j) {
+                    return function() {
+                        infowindow.setContent('<div><strong>' + st[j/2] + '</strong><br>' +
+                            ad[j/2] + '<br>' +
+                            no[j/2] + '<br>' + '<a href='+"mailto:"+ em[j/2] + ">" + em[j/2] + '</a>' + '</div>');
+                        infowindow.open(map, marker);
+                }
+        })(marker, j));
+        }
+        }
+        xmlhttp.open("GET", "text.txt", true);
+        xmlhttp.send();
+</script>
+% end
+
+<!-- This if block will run when the user selects "All Regions" from the dropdown list because it's value is '0'. So,
+ all the fire stations from the Fire_Station_Locations.csv and we display it with the table tag.-->
+% if id == '0':
+    <!-- For tabular representation of data table tag is used -->                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+        <table>                                                                                                                                                                                                                                                                                                                                                                                                 
+           <!--This is table row tag and it display the particular row. all the data of a row must be in this tag-->
+            <tr>
+                <!--These are heading of the table and these must be in a static row -->
+                <th>Station Name</th>
+            </tr>
+        <!--"% " is used to write a piece of python code of 1 line in html file. And eval function takes json variable as an argument
+        and converts it into list of dictionaries and store it in name2 variable-->
+        % name1 = eval(name1)
+        <!-- This loop iterate in a list and for each i, it holds a dictionary-->
+        % for i in name1:
+            <!--Now innner loop is taken in a table row tag because all the data of a particular i must be in a row-->
+            <tr>
+            % for (k,v) in i.items():
+                <!--td is table data tag it is used to display the data on table. and  value_variable_name  is used to show the python dictionary data-->
+                <td>{{ v }}</td>
+            % end
+            </tr>
+    % end
+        </table>
+
+% end
+
+
+
+
+</body>
+
+</html>

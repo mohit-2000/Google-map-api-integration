@@ -1,0 +1,121 @@
+RegionID,Station Number,Station Name,Station Type,Street Address,State,Postcode,Phone Number,Fax Number,E-Mail,Longitude,Latitude
+1,4,Windsor Fire Station,Permanent,7 Truro St Windsor ,Qld,4030,07 3247 5564,,enquiry@windsorfire.qfes.gov.au,153.0331964,-27.42771528
+1,6,Redland Bay Fire Station,Permanent,33 Gordon Road Redland Bay ,Qld,4165,07 3829 1403,,enquiry@redlandbayfire.qfes.gov.au,153.2890479,-27.61089735
+1,8,Enoggera Fire Station,Permanent,236 Lloyd St Enoggera ,Qld,4051,07 3247 4721,,enquiry@enoggerafire.qfes.gov.au,152.9888173,-27.42545741
+1,9,Camp Hill Fire Station,Permanent,112 Ferguson Rd Camp Hill ,Qld,4152,07 3395 4790,,enquiry@camphillfire.qfes.gov.au,153.0785562,-27.48806998
+1,11,Hendra Fire Station,Permanent,451 Nudgee Rd Hendra ,Qld,4011,07 3008 9400,,enquiry@hendrafire.qfes.gov.au,153.0748563,-27.41524909
+1,12,Taringa Fire Station,Permanent,26 Whitmore St Taringa ,Qld,4068,07 3362 9994,,enquiry@taringafire.qfes.gov.au,152.9871075,-27.49136835
+1,16,Chermside Fire Station,Permanent,526 Hamilton Rd Chermside ,Qld,4032,07 3247 4449,,enquiry@chermsidefire.qfes.gov.au,153.0235939,-27.38516275
+1,17,Wishart Fire Station,Permanent,203 Dawson Rd Wishart ,Qld,4122,07 3247 5551,,enquiry@wishartfire.qfes.gov.au,153.0906699,-27.55507713
+1,18,Durack Fire Station,Permanent,506 Blunder Road Durack ,Qld,4077,07 3710 1277,,enquiry@durackfire.qfes.gov.au,152.9855777,-27.58720545
+1,20,Mount Ommaney Fire Station,Permanent,238 Arrabri Av Mount Ommaney ,Qld,4074,07 3033 8600,,enquiry@mountommaneyfire.qfes.gov.au,152.9364322,-27.54806964
+1,21,Taigum Fire Station,Permanent,263 Beams Road Taigum ,Qld,4018,07 3865 3605,,enquiry@taigumfire.qfes.gov.au,153.0465131,-27.35100556
+1,23,Arana Hills Fire Station,Permanent,1145 South Pine Rd Arana Hills ,Qld,4054,07 3851 0563,,enquiry@aranahillsfire.qfes.gov.au,152.9625168,-27.38969775
+1,24,Eatons Hill Fire Station,Permanent,3 Eatons Crossing Road Warner ,Qld,4037,07 3264 5819,,enquiry@eatonshillfire.qfes.gov.au,152.9603611,-27.33647763
+1,25,Petrie Fire Station,Permanent,4-6 Young St Petrie ,Qld,4502,07 3897 7804,,enquiry@petriefire.qfes.gov.au,152.9787205,-27.26871557
+1,27,Deception Bay Fire Station,Auxiliary,26 Endeavour St Deception Bay ,Qld,4508,07 3888 7644,,enquiry@deceptionbayfire.qfes.gov.au,153.0268065,-27.18452766
+1,28,Caboolture Fire Station,Permanent/Auxiliary,54 Lower King St Caboolture ,Qld,4510,07 5498 3347,,enquiry@caboolturefire.qfes.gov.au,152.960892,-27.0858964
+1,47,Cleveland Fire Station,Permanent,49 Wellington St Cleveland ,Qld,4163,07 3821 2079,,enquiry@clevelandfire.qfes.gov.au,153.2551348,-27.52901312
+1,60,Coochiemudlo Island Fire Station,Auxiliary,45 Elizabeth St Coochiemudlo Island ,Qld,4184,07 3383 1142,,enquiry@coochiemudloislandfire.qfes.gov.au,153.3334904,-27.56917599
+1,62,Amity Point Fire Station,Auxiliary,9 Hexton St Amity Point ,Qld,4183,07 3383 1142,,enquiry@amitypointfire.qfes.gov.au,153.4422231,-27.3984497
+1,63,Point Lookout Fire Station,Auxiliary,85 East Coast Road Point Lookout ,Qld,4183,07 3383 1142,,enquiry@pointlookoutfire.qfes.gov.au,153.5199925,-27.42645761
+1,81,Woodford Fire Station,Auxiliary,2366 DAguilar Highway Woodford ,Qld,4514,07 3888 7644,,enquiry@woodfordfire.qfes.gov.au,152.7803739,-26.96345386
+2,17,Walkerston Fire Station,Auxiliary,21 Dutton St Walkerston ,Qld,4751,07 4965 6623,,enquiry@walkerstonfire.qfes.gov.au,149.0685453,-21.16109373
+2,26,Sarina Fire Station,Auxiliary,12 Anzac St Sarina ,Qld,4737,07 4965 6621,,enquiry@sarinafire.qfes.gov.au,149.2140672,-21.42073752
+2,34,North Rockhampton Fire Station,Permanent,753 Yaamba Road Parkhurst ,Qld,4701,07 4936 4281,07 4936 4283,enquiry@northrockhamptonfire.qfes.gov.au,150.5158143,-23.31450224
+2,35,Rockhampton Fire Station,Permanent,113 Kent St Rockhampton ,Qld,4700,07 4930 0500,,enquiry@rockhamptonfire.qfes.gov.au,150.5082426,-23.37949558
+2,37,Yeppoon Fire Station,Permanent/Auxiliary,16 Mcbean St Yeppoon ,Qld,4703,07 4939 1608,07 4939 2324,enquiry@yeppoonfire.qfes.gov.au,150.737121,-23.1406659
+2,38,Gracemere Fire Station,Auxiliary,34 Bland Street Gracemere ,Qld,4702,07 4927 1277,,enquiry@gracemerefire.qfes.gov.au,150.4561656,-23.44399771
+2,40,Agnes Water Fire Station,Auxiliary,Lot 1 Round Hill Road Agnes Water ,Qld,4677,07 4899 2210,,enquiry@agneswaterfire.qfes.gov.au,151.8932958,-24.21997325
+2,41,Biloela Fire Station,Auxiliary,190 Callide St Biloela ,Qld,4715,07 4899 2210,,enquiry@biloelafire.qfes.gov.au,150.5039048,-24.39244413
+2,42,Boyne Island Fire Station,Auxiliary,6 Gilbert Ct Boyne Island ,Qld,4680,07 4899 2210,,enquiry@boyneislandfire.qfes.gov.au,151.3529525,-23.94690991
+2,44,Gladstone Fire Station,Permanent/Auxiliary,3 Charles St West Gladstone ,Qld,4680,07 4979 6589,07 4979 6559,enquiry@gladstonefire.qfes.gov.au,151.2495536,-23.85841774
+2,45,Miriam Vale Fire Station,Auxiliary,65 Roe St Miriam Vale ,Qld,4677,07 4899 2210,,enquiry@miriamvalefire.qfes.gov.au,151.5549479,-24.32693587
+2,46,Baralaba Fire Station,Auxiliary,22 Stopford St Baralaba ,Qld,4702,07 4899 2210,,enquiry@baralabafire.qfes.gov.au,149.8112691,-24.18248836
+2,47,Moura Fire Station,Auxiliary,7 Gilchrist St Moura ,Qld,4718,07 4899 2210,,enquiry@mourafire.qfes.gov.au,149.9745901,-24.57053091
+2,48,Thangool Fire Station,Auxiliary,25 Stanley St Thangool ,Qld,4716,07 4899 2210,,enquiry@thangoolfire.qfes.gov.au,150.5745951,-24.48782261
+2,62,Capella Fire Station,Auxiliary,18 Conran St Capella ,Qld,4723,07 4983 7590,,enquiry@capellafire.qfes.gov.au,148.0252305,-23.08570395
+2,65,Emerald Fire Station,Permanent/Auxiliary,2A Andrews Rd Emerald ,Qld,4720,07 4983 7586,07 4983 7588,enquiry@emeraldfire.qfes.gov.au,148.1725094,-23.54447554
+2,66,Middlemount Fire Station,Auxiliary,85 Centenary Dr Middlemount ,Qld,4746,07 4983 7590,,enquiry@middlemountfire.qfes.gov.au,148.7024058,-22.80808595
+3,3,Thursday Island Fire Station,Permanent / Auxiliary,Neville Gully Rd Thursday Island ,Qld,4875,07 4069 1275,07 4069 1955,enquiry@thursdayislandfire.qfes.gov.au,142.2222782,-10.57705631
+3,13,Cairns South Fire Station,Permanent,80-84 Robert Rd Cairns South ,Qld,4869,07 4252 7200,,enquiry@cairnssouthfire.qfes.gov.au,145.7352115,-17.00350541
+3,16,Port Douglas Fire Station,Auxiliary,5 Port Douglas Rd Port Douglas ,Qld,4871,07 4232 5470,07 4099 5783,enquiry@portdouglasfire.qfes.gov.au,145.4631462,-16.49908489
+3,24,El Arish Fire Station,Auxiliary,7 Ryrie St El Arish ,Qld,4855,07 4061 0600,,enquiry@elarishfire.qfes.gov.au,146.0037569,-17.80559601
+3,25,Innisfail Fire Station,Permanent / Auxiliary,48 Fitzgerald Esplanade Innisfail ,Qld,4860,07 4063 4011,,enquiry@innisfailfire.qfes.gov.au,146.030865,-17.52162878
+3,26,Kurrimine Beach Fire Station,Auxiliary,Murdering Pt Rd Kurrimine Beach ,Qld,4871,07 4061 0600,,enquiry@kurriminebeachfire.qfes.gov.au,146.1014099,-17.77339799
+3,31,Atherton Fire Station,Permanent / Auxiliary,17 Vernon St Atherton ,Qld,4883,07 4089 6820,,enquiry@athertonfire.qfes.gov.au,145.4777349,-17.26752095
+3,34,Millaa Millaa Fire Station,Auxiliary,1 Maple St Millaa Millaa ,Qld,4886,07 4091 9290,,enquiry@millaamillaafire.qfes.gov.au,145.6128904,-17.51186716
+3,37,Mareeba Fire Station,Permanent / Auxiliary,20 Mammino St Mareeba ,Qld,4880,07 4092 1044,07 4092 2557,enquiry@mareebafire.qfes.gov.au,145.4255681,-17.0111626
+4,11,Bargara Fire Station,Auxiliary,31 Tanner St Bargara ,Qld,4670,07 4150 7900,,enquiry@bargarafire.qfes.gov.au,152.4587622,-24.81347979
+4,14,Gin Gin Fire Station,Auxiliary,24 Mulgrave St Gin Gin ,Qld,4670,07 4150 7900,,enquiry@ginginfire.qfes.gov.au,151.9546382,-24.98910419
+4,15,Wallaville Fire Station,Auxiliary,9 Mill St Wallaville ,Qld,4671,07 4150 7900,,enquiry@wallavillefire.qfes.gov.au,151.9950366,-25.07498379
+4,17,Burnett Heads Fire Station,Auxiliary,Brewer St Burnett Heads ,Qld,4670,07 4150 7900,,enquiry@burnettheadsfire.qfes.gov.au,152.4100031,-24.7637071
+4,21,Biggenden Fire Station,Auxiliary,22 George St Biggenden ,Qld,4621,07 4140 8040,,enquiry@biggendenfire.qfes.gov.au,152.0465141,-25.51208191
+4,27,Kilkivan Fire Station,Auxiliary,22 Bligh St Kilkivan ,Qld,4600,07 4140 8040,,enquiry@kilkivanfire.qfes.gov.au,152.2407173,-26.08591513
+4,32,Maryborough Fire Station,Permanent / Auxiliary,98 Alice St Maryborough ,Qld,4650,07 4190 4801,,enquiry@maryboroughfire.qfes.gov.au,152.6984427,-25.54027698
+4,35,Tin Can Bay Fire Station,Auxiliary,Lot 1 Snapper Creek Rd Tin Can Bay ,Qld,4580,07 4190 4831,,enquiry@tincanbayfire.qfes.gov.au,152.9953663,-25.92627134
+4,52,Imbil Fire Station,Auxiliary,113 Yabba Rd Imbil ,Qld,4570,07 5480 5465,,enquiry@imbilfire.qfes.gov.au,152.6765032,-26.45910187
+4,54,Cooroy Fire Station,Auxiliary,16 Myall St Cooroy ,Qld,4563,07 5480 5465,,enquiry@cooroyfire.qfes.gov.au,152.9107759,-26.42036912
+4,56,Noosa Heads Fire Station,Permanent,2 Langura St Noosa Heads ,Qld,4567,07 5473 8484,,enquiry@noosaheadsfire.qfes.gov.au,153.0904563,-26.40805568
+4,57,Tewantin Fire Station,Auxiliary,2 Hilton Esp Tewantin ,Qld,4565,07 5480 5465,,enquiry@tewantinfire.qfes.gov.au,153.0438391,-26.39632269
+4,61,Blackbutt Fire Station,Auxiliary,72 Hart St Blackbutt ,Qld,4306,07 4172 8701,,enquiry@blackbuttfire.qfes.gov.au,152.1008496,-26.88490272
+4,62,Kingaroy Fire Station,Permanent / Auxiliary,25 Edward Street Kingaroy ,Qld,4610,07 4172 8701,,enquiry@kingaroyfire.qfes.gov.au,151.8394319,-26.53696788
+4,63,Kumbia Fire Station,Auxiliary,16 Gordon St Kumbia ,Qld,4610,07 4172 8701,,enquiry@kumbiafire.qfes.gov.au,151.6518465,-26.69170457
+4,64,Nanango Fire Station,Auxiliary,14 Alfred St Nanango ,Qld,4615,07 4172 8701,,enquiry@nanangofire.qfes.gov.au,151.9986184,-26.67249376
+4,66,Yarraman Fire Station,Auxiliary,12 Browne St Yarraman ,Qld,4614,07 4172 8701,,enquiry@yarramanfire.qfes.gov.au,151.9827282,-26.84151205
+4,68,Murgon Fire Station,Auxiliary,62 Gore St Murgon ,Qld,4605,07 4172 8701,,enquiry@murgonfire.qfes.gov.au,151.940546,-26.24318548
+4,69,Proston Fire Station,Auxiliary,14 Collingwood St Proston ,Qld,4613,07 4172 8701,,enquiry@prostonfire.qfes.gov.au,151.6030535,-26.16466456
+4,71,Buderim Fire Station,Auxiliary,8 Lindsay Rd Buderim ,Qld,4556,07 5479 7883,,enquiry@buderimfire.qfes.gov.au,153.0507457,-26.68498665
+4,72,Coolum Fire Station,Auxiliary,19 Russell Street Coolum ,Qld,4573,07 5479 7883,,enquiry@coolumfire.qfes.gov.au,153.0871345,-26.52885362
+4,75,Kenilworth Fire Station,Auxiliary,10 Phillip St Kenilworth ,Qld,4574,07 5479 7883,,enquiry@kenilworthfire.qfes.gov.au,152.7266843,-26.59465369
+4,82,Caloundra Fire Station,Permanent / Auxiliary,18 Industrial Caloundra West ,Qld,4551,07 5420 7525,,enquiry@caloundrafire.qfes.gov.au,153.1179602,-26.79554422
+4,83,Kawana Fire Station,Auxiliary,194 Nicklin Way Warana ,Qld,4575,07 5420 7510,,enquiry@kawanafire.qfes.gov.au,153.1291426,-26.72109237
+4,84,Maleny Fire Station,Auxiliary,63 Bunya St Maleny ,Qld,4552,07 5420 7510,,enquiry@malenyfire.qfes.gov.au,152.8557323,-26.76526328
+4,85,Mooloolah Fire Station,Auxiliary,69 King Road Mooloolah ,Qld,4552,07 5420 7510,,enquiry@mooloolahfire.qfes.gov.au,152.9586496,-26.76582855
+5,12,Charters Towers Fire Station,Permanent/Auxiliary,204 Gill St Queenton ,Qld,4820,07 4787 1754,07 4787 7227,enquiry@charterstowersfire.qfes.gov.au,146.2653035,-20.07729123
+5,13,Kirwan Fire Station,Permanent,84 Thuringowa Drive Thuringowa Central ,Qld,4817,07 4773 3255,07 4723 6659,enquiry@kirwanfire.qfes.gov.au,146.7312239,-19.30938633
+5,14,Townsville Fire Station,Permanent,2-8 Morey St Townsville ,Qld,4810,07 4729 9135,07 4729 9137,enquiry@townsvillefire.qfes.gov.au,146.8205886,-19.26319589
+5,15,Wulguru Fire Station,Permanent,171 Stuart Dr Wulguru ,Qld,4811,07 4778 4313,07 4778 1737,enquiry@wulgurufire.qfes.gov.au,146.8143786,-19.3196175
+5,16,Magnetic Island Fire Station,Auxiliary,54 Kelly St Nelly Bay ,Qld,4819,07 4729 9153,,enquiry@magneticislandfire.qfes.gov.au,146.8454179,-19.15635761
+5,21,Ayr Fire Station,Permanent/Auxiliary,47-49 Soper St Ayr ,Qld,4807,07 4783 2600,07 4783 4819,enquiry@ayrfire.qfes.gov.au,147.409658,-19.57162472
+5,25,Home Hill Fire Station,Auxiliary,83 Tenth Av Home Hill ,Qld,4806,07 4729 9151,,enquiry@homehillfire.qfes.gov.au,147.4160428,-19.66095759
+5,27,Halifax Fire Station,Auxiliary,5 Rosendale St Halifax ,Qld,4850,07 4729 9153,,enquiry@halifaxfire.qfes.gov.au,146.2865198,-18.5844283
+5,31,Boulia Fire Station,Auxiliary,59 Burke St Boulia ,Qld,4829,07 4747 2355,,enquiry@bouliafire.qfes.gov.au,139.9118457,-22.90788177
+5,32,Cloncurry Fire Station,Auxiliary,44 Scarr St Cloncurry ,Qld,4824,07 4747 2355,,enquiry@cloncurryfire.qfes.gov.au,140.5059904,-20.70597908
+5,35,Mount Isa Fire Station,Permanent/Auxiliary,35 West St Mount Isa City ,Qld,4825,07 4747 2398,,enquiry@mountisafire.qfes.gov.au,139.4900419,-20.72369884
+6,31,Southport Fire Station,Permanent,229 Nerang Rd Southport ,Qld,4215,07 5583 7531,07 5583 7530,enquiry@southportfire.qfes.gov.au,153.3958195,-27.97487062
+6,35,Beenleigh Fire Station,Permanent,Brigade Dr Beenleigh ,Qld,4207,07 3884 8290,07 3884 8299,enquiry@beenleighfire.qfes.gov.au,153.2019086,-27.70333087
+6,36,Helensvale Fire Station,Permanent,1 Discovery Dr Helensvale ,Qld,4212,07 5529 4215,07 5529 4216,enquiry@helensvalefire.qfes.gov.au,153.3372937,-27.92139146
+6,38,Woodridge Fire Station,Permanent,95 Kingston Rd Woodridge ,Qld,4114,07 3441 8101,07 3441 8103,enquiry@woodridgefire.qfes.gov.au,153.11694,-27.6268239
+6,41,Loganlea Fire Station,Permanent,739 Kingston Rd Waterford West ,Qld,4131,07 3884 2550,07 3884 2559,enquiry@loganleafire.qfes.gov.au,153.1214609,-27.68248468
+6,43,Bundamba Fire Station,Permanent,61 Brisbane Rd Bundamba ,Qld,4304,07 3280 1117,07 3280 1119,enquiry@bundambafire.qfes.gov.au,152.8144793,-27.60744032
+6,48,Ripley Fire Station,Permanent,338-396 Ripley Rd Ripley ,Qld,4306,07 3294 4999,07 3294 4995,enquiry@ripleyfire.qfes.gov.au,152.779816,-27.65929346
+6,49,Brassall Fire Station,Permanent,Diamentina Boulevard Brassall ,Qld,4305,07 3201 6360,07 3201 6364,enquiry@brassallfire.qfes.gov.au,152.7247,-27.5851
+6,59,Jimboomba Fire Station,Auxiliary,22-24 Johanna St Jimboomba ,Qld,4285,07 3884 8200,,enquiry@jimboombafire.qfes.gov.au,153.0250499,-27.82908431
+6,65,Canungra Fire Station,Auxiliary,Finch Rd Canungra ,Qld,4275,07 5541 4576,,enquiry@canungrafire.qfes.gov.au,153.1658348,-28.01722872
+6,68,Rathdowney Fire Station,Auxiliary,Running Creek Rd Rathdowney ,Qld,4287,07 5541 4576,,enquiry@rathdowneyfire.qfes.gov.au,152.8652336,-28.21080313
+6,70,Kalbar Fire Station,Auxiliary,66 George St Kalbar ,Qld,4309,07 5541 4576,,enquiry@kalbarfire.qfes.gov.au,152.6238328,-27.94077016
+6,73,Rosewood Fire Station,Auxiliary,70 John St Rosewood ,Qld,4340,07 5468 3301,,enquiry@rosewoodfire.qfes.gov.au,152.5912767,-27.63782754
+6,74,Lowood Fire Station,Auxiliary,52 Main St Lowood ,Qld,4311,07 5468 3301,,enquiry@lowoodfire.qfes.gov.au,152.5813801,-27.46065612
+6,76,Forest Hill Fire Station,Auxiliary,4 William St Forest Hill ,Qld,4342,07 5468 3301,,enquiry@foresthillfire.qfes.gov.au,152.3563461,-27.58876863
+6,77,Gatton Fire Station,Permanent/Auxilary,58 North St Gatton ,Qld,4343,07 5468 3300,,enquiry@gattonfire.qfes.gov.au,152.2786296,-27.55769224
+7,11,Toowoomba Fire Station,Permanent,11 Kitchener St Toowoomba ,Qld,4350,07 4698 5830,074698 5837,enquiry@toowoombafire.qfes.gov.au,151.9598973,-27.56438827
+7,12,Anzac Avenue Fire Station,Permanent/Auxiliary,201 Anzac Av Toowoomba ,Qld,4350,07 4698 5000,07 4633 3436,enquiry@anzacavenuefire.qfes.gov.au,151.9240748,-27.57181009
+7,15,Goombungee Fire Station,Auxiliary,4 Anvil Court Goombungee ,Qld,4354,07 4616 1900,,enquiry@goombungeefire.qfes.gov.au,151.8487233,-27.31502554
+7,16,Crows Nest Fire Station,Auxiliary,28 Creek St Crows Nest ,Qld,4355,07 4616 1900,,enquiry@crowsnestfire.qfes.gov.au,152.056564,-27.26239546
+7,17,Highfields Fire Station,Auxiliary,49 OBrien Road Highfields ,Qld,4352,07 4616 1900,,enquiry@highfieldsfire.qfes.gov.au,151.9473409,-27.45100951
+7,21,Warwick Fire Station,Permanent/Auxiliary,23 Canning St Warwick ,Qld,4370,07 4667 5167,07 4667 5160,enquiry@warwickfire.qfes.gov.au,152.0369984,-28.21577058
+7,23,Allora Fire Station,Auxiliary,3 Muir St Allora ,Qld,4362,07 4667 5166,,enquiry@allorafire.qfes.gov.au,151.984646,-28.03477015
+7,27,Inglewood Fire Station,Auxiliary,32 Albert St Inglewood ,Qld,4387,07 4667 5166,,enquiry@inglewoodfire.qfes.gov.au,151.0826182,-28.41377859
+7,31,Cecil Plains Fire Station,Auxiliary,69 Taylor St Cecil Plains ,Qld,4407,07 4596 9400,07 4662 0555,enquiry@cecilplainsfire.qfes.gov.au,151.1901852,-27.53176159
+7,32,Dalby Fire Station,Auxiliary,21 New St Dalby ,Qld,4405,07 4596 9400,,enquiry@dalbyfire.qfes.gov.au,151.2667424,-27.17964326
+7,35,Chinchilla Fire Station,Auxiliary,20 Villiers St Chinchilla ,Qld,4413,07 4596 9400,,enquiry@chinchillafire.qfes.gov.au,150.6288598,-26.74329066
+7,41,Goondiwindi Fire Station,Auxiliary,170 Marshall St Goondiwindi ,Qld,4390,07 4671 8112,,enquiry@goondiwindifire.qfes.gov.au,150.3125492,-28.54746218
+7,45,Dirranbandi Fire Station,Auxiliary,4 Cowildi St Dirranbandi ,Qld,4486,07 4671 8112,,enquiry@dirranbandifire.qfes.gov.au,148.2233675,-28.58263378
+7,46,St George Fire Station,Auxiliary,37-39 Henry St St George ,Qld,4487,07 4671 8112,,enquiry@stgeorgefire.qfes.gov.au,148.5826095,-28.03692277
+7,47,Bollon Fire Station,Auxiliary,56-58 Main St Bollon ,Qld,4488,07 4671 8112,,enquiry@bollonfire.qfes.gov.au,147.4765607,-28.03171392
+7,51,Roma Fire Station,Permanent/Auxiliary,41 Mcdowall St Roma ,Qld,4455,07 4578 0005,,enquiry@romafire.qfes.gov.au,148.7925683,-26.57180256
+7,53,Surat Fire Station,Auxiliary,45 Cordelia St Surat ,Qld,4417,07 4578 0005,,enquiry@suratfire.qfes.gov.au,149.0675795,-27.15657365
+7,62,Quilpie Fire Station,Auxiliary,61 Pegler St Quilpie ,Qld,4480,07 4656 5802,,enquiry@quilpiefire.qfes.gov.au,144.2670899,-26.61940688
+7,64,Mitchell Fire Station,Auxiliary,66 Mary St Mitchell ,Qld,4465,07 4656 5802,,enquiry@mitchellfire.qfes.gov.au,147.9775117,-26.48617891
+7,66,Morven Fire Station,Auxiliary,29-31 Eurella St Morven ,Qld,4468,07 4656 5802,,enquiry@morvenfire.qfes.gov.au,147.1124921,-26.41623759

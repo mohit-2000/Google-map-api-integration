@@ -1,0 +1,114 @@
+-21.14582952
+149.1862262
+Station:Mackay Fire Station
+Station Address:90 Sydney St Mackay, Qld, 4740
+Phone Number:07 4944 8000
+enquiry@mackay.qfes.gov.au
+-21.16109373
+149.0685453
+Station:Walkerston Fire Station
+Station Address:21 Dutton St Walkerston, Qld, 4751
+Phone Number:07 4965 6623
+enquiry@walkerston.qfes.gov.au
+-21.35791931
+148.1186018
+Station:Glenden Fire Station
+Station Address:6 Bell Pl Glenden, Qld, 4743
+Phone Number:07 4965 6621
+enquiry@glenden.qfes.gov.au
+-21.42073752
+149.2140672
+Station:Sarina Fire Station
+Station Address:12 Anzac St Sarina, Qld, 4737
+Phone Number:07 4965 6621
+enquiry@sarina.qfes.gov.au
+-20.40246705
+148.5840727
+Station:Proserpine Fire Station
+Station Address:102 Main St Proserpine, Qld, 4800
+Phone Number:07 4965 6621
+enquiry@proserpine.qfes.gov.au
+-23.64575263
+150.3865882
+Station:Mount Morgan Fire Station
+Station Address:32 Morgan St Mount Morgan, Qld, 4714
+Phone Number:07 4938 1005
+enquiry@mountmorgan.qfes.gov.au
+-23.37949558
+150.5082426
+Station:Rockhampton Fire Station
+Station Address:113 Kent St Rockhampton, Qld, 4700
+Phone Number:07 4930 0500
+enquiry@rockhampton.qfes.gov.au
+-23.44399771
+150.4561656
+Station:Gracemere Fire Station
+Station Address:34 Bland Street Gracemere, Qld, 4702
+Phone Number:07 4927 1277
+enquiry@gracemere.qfes.gov.au
+-24.39244413
+150.5039048
+Station:Biloela Fire Station
+Station Address:190 Callide St Biloela, Qld, 4715
+Phone Number:07 4899 2210
+enquiry@biloela.qfes.gov.au
+-24.00548792
+151.2005219
+Station:Calliope Fire Station
+Station Address:2 Menzies St Calliope, Qld, 4680
+Phone Number:07 4899 2210
+enquiry@calliope.qfes.gov.au
+-24.32693587
+151.5549479
+Station:Miriam Vale Fire Station
+Station Address:65 Roe St Miriam Vale, Qld, 4677
+Phone Number:07 4899 2210
+enquiry@miriamvale.qfes.gov.au
+-24.57053091
+149.9745901
+Station:Moura Fire Station
+Station Address:7 Gilchrist St Moura, Qld, 4718
+Phone Number:07 4899 2210
+enquiry@moura.qfes.gov.au
+-24.94791743
+150.0765695
+Station:Theodore Fire Station
+Station Address:31 Fifth Av Theodore, Qld, 4719
+Phone Number:07 4899 2210
+enquiry@theodore.qfes.gov.au
+-23.08570395
+148.0252305
+Station:Capella Fire Station
+Station Address:18 Conran St Capella, Qld, 4723
+Phone Number:07 4983 7590
+enquiry@capella.qfes.gov.au
+-23.54447554
+148.1725094
+Station:Emerald Fire Station
+Station Address:2A Andrews Rd Emerald, Qld, 4720
+Phone Number:07 4983 7586
+enquiry@emerald.qfes.gov.au
+-24.11744873
+148.0902743
+Station:Springsure Fire Station
+Station Address:52 Wood St Springsure, Qld, 4722
+Phone Number:07 4983 7590
+enquiry@springsure.qfes.gov.au
+-23.64926834
+146.6332709
+Station:Alpha Fire Station
+Station Address:16 Byron St Alpha, Qld, 4724
+Phone Number:07 4985 1624
+enquiry@alpha.qfes.gov.au
+-23.55338873
+145.2910697
+Station:Barcaldine Fire Station
+Station Address:56 Ash St Barcaldine, Qld, 4725
+Phone Number:07 4658 1005
+enquiry@barcaldine.qfes.gov.au
+-23.44418204
+144.247923
+Station:Longreach Fire Station
+Station Address:134 Eagle St Longreach, Qld, 4730
+Phone Number:07 4658 1005
+enquiry@longreach.qfes.gov.au
